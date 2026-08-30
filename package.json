@@ -1,0 +1,25 @@
+{
+  "name": "iyf-s11-week-10-kuriarobert41-debug",
+  "version": "1.0.1",
+  "description": "Week 10 Node.js Express demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriarobert41-debug/iyf-s11-week-10-kuriarobert41-debug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kuriarobert41-debug/iyf-s11-week-10-kuriarobert41-debug/issues"
+  },
+  "homepage": "https://github.com/kuriarobert41-debug/iyf-s11-week-10-kuriarobert41-debug#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
